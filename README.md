@@ -2,4 +2,4 @@
 
 It is my first git repo.
 <br>
-Author:Shanjida Shital.
+Author:Shanjida Shohid.
